@@ -6,7 +6,6 @@ Este repositorio contiene la práctica sobre **sostenibilidad**, realizada en fo
 ## 2. Enlaces a los archivos 
 
 -  [Ver documento Markdown (`sostenibilidad.md`)](./sostenibilidad.md)
--  [Ver documento PDF (`sostenibilidad.pdf`)](./sostenibilidad.pdf)
 
 ## 3. Descripción
 En este trabajo se aplica la **sintaxis básica de Markdown** para crear contenido estructurado y claro.  
