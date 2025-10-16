@@ -3,7 +3,7 @@
 ## 1. Introducción
 Este repositorio contiene la práctica sobre **sostenibilidad**, realizada en formato Markdown y exportada a PDF.
 
-## 2. Enlaces a los archivos
+## 2. Enlaces a los archivos 
 
 -  [Ver documento Markdown (`sostenibilidad.md`)](./sostenibilidad.md)
 -  [Ver documento PDF (`sostenibilidad.pdf`)](./sostenibilidad.pdf)
